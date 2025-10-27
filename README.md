@@ -18,6 +18,8 @@ This project is an end-to-end machine learning application that predicts the res
 - **Flask** for backend deployment  
 - **HTML/CSS** for frontend interface
    
-![App Screenshot](images/Screenshot 2025-10-27 172235.png)
-![App Screenshot](images/Screenshot 2025-10-27 172216.png)
+![App Screenshot](https://github.com/Ankitgopi/Car_Price_Predictor/blob/main/homepage_.png)
+
+![App Screenshot](https://github.com/Ankitgopi/Car_Price_Predictor/blob/main/prediction_.png)
+
 
