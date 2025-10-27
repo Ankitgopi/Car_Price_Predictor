@@ -17,6 +17,10 @@ This project is an end-to-end machine learning application that predicts the res
 - **Python**, **Pandas**, **NumPy**, **Scikit-learn**  
 - **Flask** for backend deployment  
 - **HTML/CSS** for frontend interface
+
+## 🖼️ Project Demo / Screenshots
+
+#### Here’s a glimpse of the Car Price Predictor web app interface:
    
 ![App Screenshot](https://github.com/Ankitgopi/Car_Price_Predictor/blob/master/homepage_.png)
 
