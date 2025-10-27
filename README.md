@@ -16,4 +16,8 @@ This project is an end-to-end machine learning application that predicts the res
 ## 🔹 Tech Stack  
 - **Python**, **Pandas**, **NumPy**, **Scikit-learn**  
 - **Flask** for backend deployment  
-- **HTML/CSS** for frontend interface  
+- **HTML/CSS** for frontend interface
+   
+![App Screenshot](images/Screenshot 2025-10-27 172235.png)
+![App Screenshot](images/Screenshot 2025-10-27 172216.png)
+
